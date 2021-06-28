@@ -5,12 +5,13 @@ Ini adalah bot Sticker
 Makasih/thanks
 >Ing: If there is an error, Command on issues/Pull requests!!
 ```
-Cara Install Termux!
+
+##### Cara Install Termux!
 How to install Termux!
-[]
+
 Apk Termux!
 Command!!
-[]
+```
  > pkg upgrade && pkg update
  > pkg install git
  > pkg install ffmpeg
@@ -21,3 +22,4 @@ Command!!
  > npm start
   [Terimakasih]
 ```
+###### Coming soon [segera hadir]
