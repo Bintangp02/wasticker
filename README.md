@@ -25,7 +25,8 @@ Command!!
 ##### Information
 ```
 Ada Beberapa Fitur Baru!!
+Coming soon [segera hadir]
 ```
 
 
-###### Coming soon [segera hadir]
+/*###### Coming soon [segera hadir]*/
