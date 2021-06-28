@@ -262,14 +262,14 @@ async function starts() {
 		            ffmpeg(media)
 		            .on('error', (e) => {
 		            console.log(e)
-		            Ruri.sendMessage(from, 'Terjadi kesalahan', 'conversation', { quoted: Mel })
+		            Bintang.sendMessage(from, 'Terjadi kesalahan', 'conversation', { quoted: Mel })
 		            fs.unlinkSync(media)
 		            })
 		            .on('end', () => {
 		            _out = getRandom('.webp')
 		            spawn('webpmux', ['-set','exif','./stik/data.exif', out, '-o', _out])
 		            .on('exit', () => {
-		            Ruri.sendMessage(from, fs.readFileSync(_out),'stickerMessage', { quoted: Mel })
+		            Bintang.sendMessage(from, fs.readFileSync(_out),'stickerMessage', { quoted: Mel })
 		            fs.unlinkSync(out)
 		            fs.unlinkSync(_out)
 		            fs.unlinkSync(media)
@@ -289,14 +289,14 @@ async function starts() {
 		            ffmpeg(media)
 		            .on('error', (e) => {
 		            console.log(e)
-		            Ruri.sendMessage(from, 'Terjadi kesalahan', 'conversation', { quoted: Mel })
+		            Bintang.sendMessage(from, 'Terjadi kesalahan', 'conversation', { quoted: Mel })
 		            fs.unlinkSync(media)
 		            })
 		            .on('end', () => {
 		            _out = getRandom('.webp')
-		            spawn('webpmux', ['-set','exif','./stik/data.exif', out, '-o', _out])
+		            spawn('webpmux', ['-set','exif','./Bintang/data.exif', out, '-o', _out])
 		            .on('exit', () => {
-		            Ruri.sendMessage(from, fs.readFileSync(_out),'stickerMessage', { quoted: Mel })
+		            Bintang.sendMessage(from, fs.readFileSync(_out),'stickerMessage', { quoted: Mel })
 		            fs.unlinkSync(out)
 		            fs.unlinkSync(_out)
 		            fs.unlinkSync(media)
