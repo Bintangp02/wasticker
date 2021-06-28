@@ -256,7 +256,7 @@ async function starts() {
 		            var b = pe.split("|")[1];
 		            if (isMedia && !Mel.message.videoMessage || isQuotedImage ) {
 		            const encmedia = isQuotedImage   ? JSON.parse(JSON.stringify(Mel).replace('quotedM','m')).message.extendedTextMessage.contextInfo : Mel
-		             media = await Ruri.downloadAndSaveMediaMessage(encmedia)
+		             media = await Bintang.downloadAndSaveMediaMessage(encmedia)
 		            await createExif(a,b)
 		            out = getRandom('.webp')
 		            ffmpeg(media)
@@ -267,7 +267,7 @@ async function starts() {
 		            })
 		            .on('end', () => {
 		            _out = getRandom('.webp')
-		            spawn('webpmux', ['-set','exif','./stik/data.exif', out, '-o', _out])
+		            spawn('webpmux', ['-set','exif','./Bintang/data.exif', out, '-o', _out])
 		            .on('exit', () => {
 		            Bintang.sendMessage(from, fs.readFileSync(_out),'stickerMessage', { quoted: Mel })
 		            fs.unlinkSync(out)
@@ -280,7 +280,7 @@ async function starts() {
 		            .save(out) 
 		            } else if ((isMedia && Mel.message.videoMessage.seconds < 11 || isQuotedVideo && Mel.message.extendedTextMessage.contextInfo.quotedMessage.videoMessage.seconds < 11) && args.length == 0) {
 		            const encmedia = isQuotedVideo ? JSON.parse(JSON.stringify(Mel).replace('quotedM','m')).message.extendedTextMessage.contextInfo : Mel
-		            const media = await Ruri.downloadAndSaveMediaMessage(encmedia)
+		            const media = await Bintang.downloadAndSaveMediaMessage(encmedia)
 		            pe = args.join('')
 		            var a = pe.split("|")[0];
 		            var b = pe.split("|")[1];
