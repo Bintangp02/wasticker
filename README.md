@@ -23,8 +23,9 @@ Command!!
   [Terimakasih]
 ```
 ##### Information
-```script original Is MhankBarBar
-
+```
+Ada Beberapa Fitur Baru!!
+```
 
 
 ###### Coming soon [segera hadir]
