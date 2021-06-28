@@ -29,4 +29,4 @@ Coming soon [segera hadir]
 ```
 
 
-/*###### Coming soon [segera hadir]*/
+*###### Coming soon [segera hadir]*
