@@ -11,13 +11,13 @@ How to install Termux!
 Apk Termux!
 Command!!
 []
->pkg upgrade && pkg update
->pkg install git
->pkg install ffmpeg
->git clone [repositori]
->cd [name repositori]
->pkg install nodejs
->npm i 
->npm start
+ > pkg upgrade && pkg update
+ > pkg install git
+ > pkg install ffmpeg
+ > git clone [repositori]
+ > cd [name repositori]
+ > pkg install nodejs
+ > npm i 
+ > npm start
   [Terimakasih]
 ```
