@@ -64,6 +64,8 @@ you've just cloned!!
 |       ✅       | Reply A Video or GIF             |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
+|       ✅       | Reply A Sticker ( rename sticker) |
+
 
 | Other  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
