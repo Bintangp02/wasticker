@@ -1,10 +1,21 @@
-### wasticker
-Ini adalah bot Sticker
-```
->Jika eror Bisa Command Di issues/Pull requests!!
-Makasih/thanks
->Ing: If there is an error, Command on issues/Pull requests!!
-```
+
+<p align="center">
+<img src="" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Bintangp02"><img title="Author" src="https://img.shields.io/badge/Author-Bintangp02-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Bintangp02/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/Bintangp02/wasticker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/Bintangp02/wasticker/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
+<a href="https://github.com/Bintangp02/wasticker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+</p>
 
 ### Information
 ```
@@ -14,22 +25,35 @@ Ada Beberapa Fitur Baru!!
 > Segera Hadir.. [coming soon]
 ```
 
-##### Cara Install Termux!
-How to install Termux!
+## Clone this project
 
-Open Apk Termux!
-Command!!
+```bash
+> git clone https://github.com/MhankBarBar/termux-wabot
 ```
- > pkg upgrade && pkg update
- > pkg install git
- > pkg install ffmpeg
- > git clone [repositori]
- > cd [name repositori]
- > pkg install nodejs
- > npm i 
- > npm start
-  [Terimakasih]
+
+## Install the dependencies:
+Before running the below command, make sure you're in the project directory that
+you've just cloned!!
+
+```bash
+> cd termux-wabot
+> bash install.sh
 ```
+
+### Usage
+```bash
+> npm start
+```
+
+### Settings
+```json
+{
+	"prefix": ".",
+	"ownerNumber": "62858xxxxx",
+	"apiKey": "Your ApiKey here"
+}
+```
+
 
 ## Features
 
