@@ -9,7 +9,7 @@
 <a href="https://github.com/Bintangp02"><img title="Author" src="https://img.shields.io/badge/Author-Bintangp02-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Bintangp02/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/Bintangp02/followers"><img title="Followers" src="https://img.shields.io/github/followers/Bintangp02?color=blue&style=flat-square"></a>
 <a href="https://github.com/Bintangp02/wasticker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Bintangp02/wasticker?color=red&style=flat-square"></a>
 <a href="https://github.com/Bintangp02/wasticker/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bintangp02/wasticker?color=red&style=flat-square"></a>
 <a href="https://github.com/Bintangp02/wasticker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bintangp02/wasticker?label=Watchers&color=blue&style=flat-square"></a>
