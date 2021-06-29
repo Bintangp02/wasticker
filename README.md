@@ -13,7 +13,7 @@
 <a href="https://github.com/Bintangp02/wasticker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Bintangp02/wasticker?color=red&style=flat-square"></a>
 <a href="https://github.com/Bintangp02/wasticker/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bintangp02/wasticker?color=red&style=flat-square"></a>
 <a href="https://github.com/Bintangp02/wasticker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bintangp02/wasticker?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/Bintangp02/wasticker"><img src="https://www.codefactor.io/repository/github/Bintangp02/wasticker/badge" alt="CodeFactor" /></a>
+<a href="https://www.codefactor.io/repository/github/MhankBarBar/termux-wabot"><img src="https://www.codefactor.io/repository/github/Bintangp02/wasticker/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
