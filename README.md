@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="" width="128" height="128"/>
+<img src="https://github.com/Bintangp02/wasticker/blob/a2df6486d3ce7d208a7c5864adaf4856dc33cfaa/Bintang/5.jpg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
